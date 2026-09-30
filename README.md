@@ -38,7 +38,13 @@ This analysis aims to answer:
 -   CPC --- Cost Per Click
 -   CPA --- Cost Per Acquisition
 -   ROAS --- Return on Ad Spend
+## 📊 Data Visualization
 
+### ROAS by Marketing Channel
+
+![ROAS by Marketing Channel](marketing%20chanel.png)
+
+This visualization compares the Return on Ad Spend (ROAS) across the four marketing channels. Email achieved the highest ROAS, demonstrating the strongest advertising efficiency among the analyzed channels.
 ## 🔎 Key Insights
 
 -   Email generated the highest total revenue: **\$915,342.24**
