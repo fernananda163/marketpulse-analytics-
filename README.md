@@ -13,6 +13,10 @@ performance of four digital marketing channels throughout 2025:
 The goal of the project is to transform raw marketing data into
 actionable business insights using Python.
 
+This project uses a synthetic dataset created for analytical practice.
+The dataset was generated using Python to simulate digital marketing performance across four channels: Google Ads, Meta Ads, TikTok Ads, and Email.
+The data does not represent real company information or actual business operations.
+
 ## 🎯 Business Questions
 
 This analysis aims to answer:
